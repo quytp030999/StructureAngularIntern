@@ -30,5 +30,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 1. Ant Design Of Angular (https://ng.ant.design/docs/introduce/en).
 
 ## Github
-1. Path: https://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@github.com/quytp030999/front-end-cms-travel-vivas.git
+1. Path: https://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@github.com/quytp030999/front-end-cms-travel-vivas.git
 2. Only commit and push to branch of the feature
