@@ -25,3 +25,10 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Library Using
+1. Ant Design Of Angular (https://ng.ant.design/docs/introduce/en).
+
+## Github
+1. Path: https://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@github.com/quytp030999/front-end-cms-travel-vivas.git
+2. Only commit and push to branch of the feature
